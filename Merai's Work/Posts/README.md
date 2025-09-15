@@ -19,10 +19,10 @@
 ![Post 1](.Merai's Work/Posts/Images/post1.png)
 
 ### 2️⃣ Post 2
-![Post 2](./images/post2.png)
+![Post 2](./Images/post2.png)
 
 ### 3️⃣ Post 3
-![Post 3](./images/post3.png)
+![Post 3](./Images/post3.png)
 
 ---
 
