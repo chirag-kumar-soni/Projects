@@ -16,7 +16,7 @@
 ## ✨ Visuals
 
 ### 1️⃣ Post 1
-![Post 1](.Merai's Work/Posts/Images/post1.png)
+![Post 1](./Images/post1.png)
 
 ### 2️⃣ Post 2
 ![Post 2](./Images/post2.png)
