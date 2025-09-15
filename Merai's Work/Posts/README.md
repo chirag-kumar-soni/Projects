@@ -8,11 +8,6 @@
 
 ---
 
-## 📸 Previews
-(Add screenshots or mockup images of your posts here)
-
----
-
 ## ✨ Visuals
 
 ### 1️⃣ Post 1
