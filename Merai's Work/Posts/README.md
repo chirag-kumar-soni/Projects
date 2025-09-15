@@ -16,13 +16,13 @@
 ## ✨ Visuals
 
 ### 1️⃣ Post 1
-![Post 1](./Images/post1.png)
+<img src="./Images/post1.png" alt="Post 1" width="150"/>
 
 ### 2️⃣ Post 2
-![Post 2](./Images/post2.png)
+<img src="./Images/post2.png" alt="Post 2" width="150"/>
 
 ### 3️⃣ Post 3
-![Post 3](./Images/post3.png)
+<img src="./Images/post3.png" alt="Post 3" width="150"/>
 
 ---
 
