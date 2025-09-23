@@ -24,15 +24,13 @@
             <h3> 3️⃣ Post 3 </h3>
             <img src="./Images/post3.png" alt="Post 3" width="150"/>
         </td>
-    </tr>
-    <tr>
         <td align="center">    
             <h3> 4️⃣ Post 4 </h3>
-            <img src="./images/post4.png" alt="Post 4" width="150"/>
+            <img src="./Images/post4.png" alt="Post 4" width="150"/>
         </td>    
         <td align="center">
             <h3> 5️⃣ Post 5 </h3>
-            <img src="./images/post5.png" alt="Post 5" width="150"/>
+            <img src="./Images/post5.png" alt="Post 5" width="150"/>
         </td>
     </tr>        
 </table>
