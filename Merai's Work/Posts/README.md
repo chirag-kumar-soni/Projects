@@ -32,7 +32,7 @@
         </td>    
         <td align="center">
             <h3> 5️⃣ Post 5 </h3>
-            <img src="./images/post5.png" alt="Post 4" width="150"/>
+            <img src="./images/post5.png" alt="Post 5" width="150"/>
         </td>
     </tr>        
 </table>
